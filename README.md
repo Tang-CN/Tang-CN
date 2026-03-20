@@ -4,9 +4,8 @@
 
 Open Source Enthusiast / A boy born in 2000 🙋‍♂️
 
-- 🔥 **I'm interested in frontend development and backend development**
+- 🔥 **I'm interested in frontend development**
 - 🌱 I’m currently learning...
-  - React
   - AI
 - 👯 I'm looking for cooperation
 - ✨ Currently working as a frontend developer at a startup
@@ -14,15 +13,15 @@ Open Source Enthusiast / A boy born in 2000 🙋‍♂️
 
 ### ⚒ Skills
 
-🥪 **Front End** / 🥗 **Backend**
+🥪 **Front End**
 
 <br/>
 
 ### 🍉 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,less,scss,tailwindcss,vue,nodejs,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,vue,react,nodejs)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,webpack,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,docker,nginx,git,vscode)](https://skillicons.dev)
 
